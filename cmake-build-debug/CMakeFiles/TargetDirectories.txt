@@ -1,0 +1,3 @@
+/Users/annaminkova/GitHub/TsisaBmstu3sem/Tsisa_lab_05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/annaminkova/GitHub/TsisaBmstu3sem/Tsisa_lab_05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/annaminkova/GitHub/TsisaBmstu3sem/Tsisa_lab_05/cmake-build-debug/CMakeFiles/lab_05.dir
